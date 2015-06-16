@@ -52,10 +52,10 @@ public class JavaSQL {
 	    }  
 	}
 	
-	public static boolean query(String guid) {  
+	public static boolean query(String StuNumber) {  
 	    conn = getConnection(); //同样先要获取连接，即连接到数据库  
 	    try {  
-	        String sql = "select * from student where itemGuid="+guid;     // 查询数据的sql语句  
+	        String sql = "select * from student where StuNumber="+StuNumber;     // 查询数据的sql语句  
 	        st = (Statement) conn.createStatement();    //创建用于执行静态sql语句的Statement对象，st属局部变量  
 	          
 	        ResultSet rs = st.executeQuery(sql);    //执行sql查询语句，返回查询数据的结果集  
@@ -113,15 +113,15 @@ public class JavaSQL {
               
             int count = st.executeUpdate(sql);// 执行更新操作的sql语句，返回更新数据的个数  
               
-            System.out.println("student表中更新 " + count + " 条数据");      //输出更新操作的处理结果  
+            System.out.println("Student table updated " + count + " rows");      //输出更新操作的处理结果  
               
             conn.close();   //关闭数据库连接  
               
         } catch (SQLException e) {  
-            System.out.println("更新数据失败");  
+            System.out.println("Update data error!");  
         }  
     }
     public static void main(String[] args){
-        System.out.println("HELLO,MySQL");
+        System.out.println("HELLO,MySQL!");
     }
 }
