@@ -16,22 +16,54 @@ public class Student {
     public String StuGrade;
     public String StuClass;
     public String StuScore;
-        public  String getStuName(){
+    public Student(String StuNumber, String StuName,StuSexual,StuAge,StuGrade,StuClass,StuScore){
+        this.StuNumber = StuNumber;
+        this.StuSexsual = StuSexual;
+        this.StuAge = StuAge;
+        this.StuGrade = StuGrade;
+        this.StuClass = StuClass;
+        this.StuScore = StuScore;
+    }
+    public String getStuNmber(){
         return StuNumber;
     }
-        public  String getStuSexual(){
-        return StuNumber;
+    public String getStuName(){
+        return StuName;
     }
-        public  String getStuAge(){
-        return StuNumber;
+   public String getStuSexual(){
+        return StuSexual;
     }
-        public  String getStuGrade(){
-        return StuNumber;
+    public String getStuAge(){
+        return StuAge;
     }
-        public  String getStuClass(){
-        return StuNumber;
+    public String getStuGrade(){
+        return StuGrade;
     }
-        public  String getStuScore(){
-        return StuNumber;
+    public String getStuClass(){
+        return StuClass;
+    }
+    public String getStuScore(){
+        return StuScore;
+    }
+    public void setStuNumber(){
+        this.StuNumber=StuNumber;
+    }
+    public void setStuName(){
+        this.StuName=StuName;
+    }
+    public void setStuSexual(){
+        this.StuSexual=StuSexual;
+    }
+    public void setStuAge(){
+        this.StuAge=StuAge;
+    }
+    public void setStuGrade(){
+        this.StuGrade=StuGrade;
+    }
+        public void setStuClass(){
+        this.StuClass=StuClass;
+    }
+        public void setStuScore(){
+        this.StuScore=StuScore;
     }
 }

@@ -30,12 +30,10 @@ public class JavaSQL {
 	public static void insert(Student stu){
 		conn = getConnection(); // 首先要获取连接，即连接到数据库  
 	    try {  
-	        String sql = "INSERT INTO Student(itemGuid, itemDate, itemEnUrl,itemEnType, itemAuthor, " +
-	        		"itemKeyword,itemDuration,itemDesc,itemLink,itemTitle )"  
-	                + " VALUES ('"+v.getItemGuid()+"','"+v.getItemDate()+"','"+v.getItemEnUrl()+"','"+v.getItemEnType()+
-	                "','"+v.getItemAuthor()+"','"+v.getItemKeyword()+"','"+v.getItemDuration()+"','"+v.getItemDesc()+"','"+
-	                v.getItemLink()+"','"+v.getItemTitle()+"')";  // 插入数据的sql语句  
-	        System.out.println("sql="+sql);
+	        String sql = "INSERT INTO Student(StuNumber, StuName, StuSexual,StuAge, StuGrade, StuClass, StuScore " 	                + " VALUES ('"+v.getItemGuid()+"','"+v.getItemDate()+"','"+v.getItemEnUrl()+"','"+v.getItemEnType()+
+	                "','"+stu.getStuNumber()+"','"+stu.getStuName()+"','"+stu.getStuSexual()+"','"+stu.getStuAge()+"','"+
+	                stu.getStuGrade()+"','"+stu.getClass()+"','"+stu.getStuScore()+"')'";  // 插入数据的sql语句  
+	        System.out.println("SQL="+sql);
 	        st = (Statement) conn.createStatement();    // 创建用于执行静态sql语句的Statement对象  
 	          
 	        int count = st.executeUpdate(sql);  // 执行插入操作的sql语句，并返回插入数据的个数  
@@ -110,7 +108,7 @@ public class JavaSQL {
 	}  
 	
 	/* 更新符合要求的记录，并返回更新的记录数目*/  
-    public static void update(Video v) {  
+    public static void update(Student stu) {  
         conn = getConnection(); //同样先要获取连接，即连接到数据库  
         try {  
             String sql = "update video set state=402 where itemGuid="+v.getItemGuid();// 更新数据的sql语句  
