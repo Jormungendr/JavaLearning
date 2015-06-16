@@ -4,7 +4,10 @@
  * and open the template in the editor.
  */
 package javasql;
-
+import java.sql.*;
+import java.io.*;
+import java.util.*;
+        
 public class Student {
     public String StuNumber;
     public String StuName;
@@ -12,9 +15,9 @@ public class Student {
     public String StuAge;
     public String StuGrade;
     public String StuClass;
-    public String StuObject;
-    public static String getStuNumber(){
-        
+    public String StuScore;
+    public  String getStuNumber(){
+        return StuNumber;
     }
 
 

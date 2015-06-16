@@ -30,7 +30,7 @@ public class JavaSQL {
 	public static void insert(Student stu){
 		conn = getConnection(); // 首先要获取连接，即连接到数据库  
 	    try {  
-	        String sql = "INSERT INTO video(itemGuid, itemDate, itemEnUrl,itemEnType, itemAuthor, " +
+	        String sql = "INSERT INTO Student(itemGuid, itemDate, itemEnUrl,itemEnType, itemAuthor, " +
 	        		"itemKeyword,itemDuration,itemDesc,itemLink,itemTitle )"  
 	                + " VALUES ('"+v.getItemGuid()+"','"+v.getItemDate()+"','"+v.getItemEnUrl()+"','"+v.getItemEnType()+
 	                "','"+v.getItemAuthor()+"','"+v.getItemKeyword()+"','"+v.getItemDuration()+"','"+v.getItemDesc()+"','"+
