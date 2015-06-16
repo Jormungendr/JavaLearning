@@ -16,10 +16,22 @@ public class Student {
     public String StuGrade;
     public String StuClass;
     public String StuScore;
-    public  String getStuNumber(){
+        public  String getStuName(){
         return StuNumber;
     }
-
-
-
+        public  String getStuSexual(){
+        return StuNumber;
+    }
+        public  String getStuAge(){
+        return StuNumber;
+    }
+        public  String getStuGrade(){
+        return StuNumber;
+    }
+        public  String getStuClass(){
+        return StuNumber;
+    }
+        public  String getStuScore(){
+        return StuNumber;
+    }
 }
