@@ -1,12 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package javasql;
 import java.sql.*;
 import java.io.*;
 import java.util.*;
+import java.lang.*;
         
 public class Student {
     public String StuNumber;
@@ -31,7 +27,7 @@ public class Student {
     public String getStuName(){
         return StuName;
     }
-   public String getStuSexual(){
+    public String getStuSexual(){
         return StuSexual;
     }
     public String getStuAge(){
@@ -61,10 +57,10 @@ public class Student {
     public void setStuGrade(String StuGrade){
         this.StuGrade=StuGrade;
     }
-        public void setStuClass(String StuClass){
+    public void setStuClass(String StuClass){
         this.StuClass=StuClass;
     }
-        public void setStuScore(String StuScore){
+    public void setStuScore(String StuScore){
         this.StuScore=StuScore;
     }
 }
