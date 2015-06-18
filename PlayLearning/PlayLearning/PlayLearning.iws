@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1165803b-375c-4300-8444-5d029f6618ee" name="Default" comment="" />
+    <list default="true" id="36703549-554e-4967-bb3d-dc482961fd06" name="Default" comment="" />
     <ignored path="PlayLearning.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/tmp/classes/" />
@@ -134,10 +134,10 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1165803b-375c-4300-8444-5d029f6618ee" name="Default" comment="" />
-      <created>1434598913406</created>
+      <changelist id="36703549-554e-4967-bb3d-dc482961fd06" name="Default" comment="" />
+      <created>1434603802182</created>
       <option name="number" value="Default" />
-      <updated>1434598913406</updated>
+      <updated>1434603802182</updated>
     </task>
     <servers />
   </component>
