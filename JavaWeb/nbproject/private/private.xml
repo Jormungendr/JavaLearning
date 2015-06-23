@@ -4,12 +4,20 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/conf/application.conf</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/views/Application/show.html</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/public/stylesheets/main.css</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/conf/data.yml</file>
             <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/controllers/Application.java</file>
-            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/views/Application/index.html</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/views/tags/display.html</file>
             <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/models/Comment.java</file>
-            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/Bootstrap.java</file>
-            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/models/User.java</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/conf/dependencies.yml</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/test/data.yml</file>
             <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/models/Post.java</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/conf/routes</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/conf/messages</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/views/Application/index.html</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/models/User.java</file>
+            <file>file:/Users/Ricardo/Documents/JavaLearning/JavaWeb/app/views/main.html</file>
         </group>
     </open-files>
 </project-private>
