@@ -24,4 +24,5 @@ public class Comment extends Model {
         this.postedAt = new Date();
     }
 
+    
 }

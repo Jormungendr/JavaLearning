@@ -1,5 +1,6 @@
 package models;
 
+import static controllers.Application.show;
 import java.util.*;
 import javax.persistence.*;
 
@@ -32,6 +33,14 @@ public class Post extends Model {
         this.title = title;
         this.content = content;
         this.postedAt = new Date();
+    }
+    
+    public Post previous() {
+        return Post.find("postedAt < ? order by postedAt desc", postedAt).first();
+    }
+
+    public Post next() {
+        return Post.find("postedAt > ? order by postedAt asc", postedAt).first();
     }
     
 
