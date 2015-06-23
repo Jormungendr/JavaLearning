@@ -1,0 +1,743 @@
+23 六月 2015 09:09:26,592 INFO  ~ Starting /Users/Ricardo/Documents/JavaLearning/JavaWeb
+23 六月 2015 09:09:27,243 WARN  ~ You're running Play! in DEV mode
+23 六月 2015 09:09:27,340 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+23 六月 2015 09:09:38,619 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+23 六月 2015 09:09:39,669 INFO  ~ Application 'JavaWeb' is now started !
+23 六月 2015 09:19:09,888 ERROR ~ 
+
+@6mh929cde
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:19:51,910 ERROR ~ 
+
+@6mh929cdf
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:19:53,015 ERROR ~ 
+
+@6mh929cdg
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:46,764 ERROR ~ 
+
+@6mh929cdh
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:48,072 ERROR ~ 
+
+@6mh929cdi
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:48,698 ERROR ~ 
+
+@6mh929cdj
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:48,886 ERROR ~ 
+
+@6mh929cdk
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:49,064 ERROR ~ 
+
+@6mh929cdl
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:49,229 ERROR ~ 
+
+@6mh929cdm
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:49,380 ERROR ~ 
+
+@6mh929cdn
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:49,542 ERROR ~ 
+
+@6mh929cdo
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:49,719 ERROR ~ 
+
+@6mh929cdp
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:21:49,882 ERROR ~ 
+
+@6mh929ce0
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:35,424 ERROR ~ 
+
+@6mh929ce1
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:36,476 ERROR ~ 
+
+@6mh929ce2
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 29)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:42,683 ERROR ~ 
+
+@6mh929ce3
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:43,524 ERROR ~ 
+
+@6mh929ce4
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:44,023 ERROR ~ 
+
+@6mh929ce5
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:44,216 ERROR ~ 
+
+@6mh929ce6
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:44,391 ERROR ~ 
+
+@6mh929ce7
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:44,587 ERROR ~ 
+
+@6mh929ce8
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:44,762 ERROR ~ 
+
+@6mh929ce9
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:44,927 ERROR ~ 
+
+@6mh929cea
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:45,091 ERROR ~ 
+
+@6mh929ceb
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:45,265 ERROR ~ 
+
+@6mh929cec
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:45,452 ERROR ~ 
+
+@6mh929ced
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:45,636 ERROR ~ 
+
+@6mh929cee
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:45,828 ERROR ~ 
+
+@6mh929cef
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:46,017 ERROR ~ 
+
+@6mh929ceg
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:46,205 ERROR ~ 
+
+@6mh929ceh
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:25:46,384 ERROR ~ 
+
+@6mh929cei
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 28)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:57,618 ERROR ~ 
+
+@6mh929cej
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:58,448 ERROR ~ 
+
+@6mh929cek
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:58,973 ERROR ~ 
+
+@6mh929cel
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:59,176 ERROR ~ 
+
+@6mh929cem
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:59,363 ERROR ~ 
+
+@6mh929cen
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:59,533 ERROR ~ 
+
+@6mh929ceo
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:59,714 ERROR ~ 
+
+@6mh929cep
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:27:59,885 ERROR ~ 
+
+@6mh929cf0
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:28:00,061 ERROR ~ 
+
+@6mh929cf1
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 15)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method connect(String, String) is undefined for the type User
+
+play.exceptions.CompilationException: The method connect(String, String) is undefined for the type User
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
+23 六月 2015 09:32:11,287 ERROR ~ 
+
+@6mh929cf2
+Internal Server Error (500) for request GET /@tests
+
+Compilation error (In /test/BasicTest.java around line 89)
+The file /test/BasicTest.java could not be compiled. Error raised is : The method addComment(String, String) is undefined for the type Post
+
+play.exceptions.CompilationException: The method addComment(String, String) is undefined for the type Post
+	at play.classloading.ApplicationCompiler$2.acceptResult(ApplicationCompiler.java:246)
+	at org.eclipse.jdt.internal.compiler.Compiler.handleInternalException(Compiler.java:676)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:520)
+	at play.classloading.ApplicationCompiler.compile(ApplicationCompiler.java:282)
+	at play.classloading.ApplicationClasses$ApplicationClass.compile(ApplicationClasses.java:281)
+	at play.classloading.ApplicationClassloader.detectChanges(ApplicationClassloader.java:324)
+	at play.Play.detectChanges(Play.java:635)
+	at play.Invoker$Invocation.init(Invoker.java:198)
+	at Invocation.HTTP Request(Play!)
